@@ -9,3 +9,4 @@ console.table(rn);
 let num1=789456123;
 let res=num1.toString().split('').reverse('');
 console.table(res);
+
